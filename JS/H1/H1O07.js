@@ -5,6 +5,7 @@ function setup() {
   noLoop();
   colorMode(RGB, 255, 255, 255, 1);
   fill(178, 34, 34,.5);
+ 
 }
 
 function draw() {
